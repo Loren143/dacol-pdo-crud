@@ -1,11 +1,11 @@
 <?php
 /* Database credentials. Assuming you are running MySQL
 server with default setting (user 'root' with no password) */
-define('DB_SERVER', 'localhost');
-define('DB_USERNAME', 'root');
-define('DB_PASSWORD', '');
-define('DB_NAME', 'it28-ecommerce');
- 
+define('DB_SERVER', 'ftp.dev2024.site');
+define('DB_NAME', 'u593341949_db_dacol');
+define('DB_USERNAME', 'u593341949.dev_dacol');
+define('DB_PASSWORD', '20212051Dacol');
+
 /* Attempt to connect to MySQL database */
 try{
     $pdo = new PDO("mysql:host=" . DB_SERVER . ";dbname=" . DB_NAME, DB_USERNAME, DB_PASSWORD);
