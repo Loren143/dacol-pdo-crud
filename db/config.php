@@ -1,10 +1,10 @@
 <?php
 /* Database credentials. Assuming you are running MySQL
 server with default setting (user 'root' with no password) */
-define('DB_SERVER', 'ftp.dev2024.site');
-define('DB_NAME', 'u593341949_db_dacol');
-define('DB_USERNAME', 'u593341949.dev_dacol');
-define('DB_PASSWORD', '20212051Dacol');
+define('DB_SERVER', 'localhost');
+define('DB_NAME', 'products.sql');
+define('DB_USERNAME', 'root');
+define('DB_PASSWORD', '');
 
 /* Attempt to connect to MySQL database */
 try{
