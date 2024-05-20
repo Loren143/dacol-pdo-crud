@@ -27,7 +27,7 @@ if(isset($_GET["product_id"]) && !empty(trim($_GET["product_id"]))){
                 $product_retail_price = $row["product_retail_price"];
             } else{
                 // URL doesn't contain valid id parameter. Redirect to error page
-                header("location: ../public/error.php");
+                header("location: ../app/error.php");
                 exit();
             }
             
@@ -43,7 +43,7 @@ if(isset($_GET["product_id"]) && !empty(trim($_GET["product_id"]))){
     unset($pdo);
 } else{
     // URL doesn't contain id parameter. Redirect to error page
-    header("location: ../public/error.php");
+    header("location: ../app/error.php");
     exit();
 }
 ?>

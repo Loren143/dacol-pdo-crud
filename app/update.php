@@ -101,7 +101,7 @@ if(isset($_POST["product_id"]) && !empty($_POST["product_id"])){
                     $product_retail_price = $row["product_retail_price"];
                 } else{
                     // URL doesn't contain valid id. Redirect to error page
-                    header("location: ../public/error.php");
+                    header("location: ../app/error.php");
                     exit();
                 }
                 
@@ -117,7 +117,7 @@ if(isset($_POST["product_id"]) && !empty($_POST["product_id"])){
         unset($pdo);
     }  else{
         // URL doesn't contain id parameter. Redirect to error page
-        header("location: ../public/error.php");
+        header("location: ../app/error.php");
         exit();
     }
 }
