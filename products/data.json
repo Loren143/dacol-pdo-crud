@@ -1,0 +1,62 @@
+[
+    {
+        "product_name": "Chocolate Truffles",
+        "product_description": " Smooth and creamy chocolate confections with a rich, indulgent taste. Often coated with cocoa powder or nuts for added texture.",
+        "product_price": 65.99,
+        "product_dateAdded": "2024-02-11",
+        "product_ExpirationDate": "2027-02-11"
+    },
+    {
+        "product_name": "Fruit Gummies",
+        "product_description": "Soft, chewy candies bursting with fruity flavors like strawberry, orange, lemon, and grape. Shaped like various fruits or animals ",
+        "product_price": 20.49,
+        "product_dateAdded": "2026-04-11",
+        "product_ExpirationDate": "2027-02-11"
+    },
+    {
+        "product_name": "Peppermint Patties",
+        "product_description": "Thin, round candies with a soft peppermint filling covered in a layer of smooth chocolate. Refreshing and minty.",
+        "product_price": 14.99,
+        "product_dateAdded": "2024-02-11",
+        "product_ExpirationDate": "2025-02-11"
+    },
+    {
+        "product_name": "Caramel Chews",
+        "product_description": " Chewy candies made from caramelized sugar and butter, offering a rich and buttery flavor. Often wrapped individually for convenience",
+        "product_price": 10.89,
+        "product_dateAdded": "2024-09-11",
+        "product_ExpirationDate": "2025-02-11"
+    },
+
+    {
+        "product_name": "Jelly Beans",
+        "product_description": " Colorful bean-shaped candies with a soft jelly-like center. Come in a wide variety of flavors ranging from fruity to sour.",
+        "product_price": 26.99,
+        "product_dateAdded": "2024-02-11",
+        "product_ExpirationDate": "2027-02-10"
+    },
+
+    {
+        "product_name": "Cotton Candy",
+        "product_description": " Fluffy and airy confection made from spun sugar. Available in various colors and flavors, reminiscent of the carnival experience.",
+        "product_price": 23.99,
+        "product_dateAdded": "2024-02-01",
+        "product_ExpirationDate": "2029-02-10"
+    },
+     
+    {
+        "product_name": "Sour Patch Kids",
+        "product_description": " Tangy and tart candies shaped like little people. Coated with a sour sugar coating that gives way to a sweet and fruity flavor inside",
+        "product_price": 14.99,
+        "product_dateAdded": "2024-02-03",
+        "product_ExpirationDate": "2029-02-26"
+    },
+     
+    {
+        "product_name": "Toffee Crunch",
+        "product_description": " Hard and crunchy candies made from caramelized sugar and butter, often mixed with nuts like almonds or pecans for added texture.",
+        "product_price": 10.99,
+        "product_dateAdded": "2024-02-17",
+        "product_ExpirationDate": "2029-09-26"
+    }
+  ]
