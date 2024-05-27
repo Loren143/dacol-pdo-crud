@@ -1,9 +1,9 @@
 <?php
 // Database connection
 $servername = "localhost";
-$username = "root";
-$password = "";
-$dbname = "s";
+$username = "u593341949_dev_dacol";
+$password = "20212051Dacol";
+$dbname = "u593341949_db_dacol";
 
 try {
     // Create a PDO connection
